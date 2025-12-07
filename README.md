@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Moixex</strong></h1>
+<h1 align="center"><strong>Ariel Ratto</strong></h1>
 <h3 align="center">Desarrollador en formación | Java • TypeScript • Python | Web & Bases de Datos</h3>
 
 ---
