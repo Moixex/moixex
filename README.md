@@ -59,10 +59,11 @@ Me caracterizo por ser autodidacta, curioso y detallista con mi trabajo.
 ## Estadísticas
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=moixex&show_icons=true&theme=transparent" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moixex&layout=compact&theme=transparent" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=moixex&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moixex&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
-<p align="center">Gracias por visitar mi perfil.</p>
+<p align="center">Cualquier consulta no dudes en contactarme!.</p>
